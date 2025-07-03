@@ -105,7 +105,7 @@ function App() {
               </div>
             </div>
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
-              <span className="text-red-600">SmartGuard AI</span>
+              <span className="text-red-600">Heliosafe</span>
               <br />
               Intelligent Accident Detection System
             </h1>
